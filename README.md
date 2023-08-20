@@ -1,1 +1,1 @@
-# Basic Web Application for training purposes
+Basic Web Application for training purposes
