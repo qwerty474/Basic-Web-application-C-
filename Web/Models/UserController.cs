@@ -2,8 +2,8 @@
 {
     public class UserController
     {
-        public int Number        { get; set; }
+        public int Number { get; set; }
         public string UserName { get; set; }
-        public int Password { get; set; }
+        public string Password { get; set; }
     }
 }
